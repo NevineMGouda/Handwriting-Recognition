@@ -1,0 +1,10 @@
+README
+setup.py
+HR_ML.egg-info/PKG-INFO
+HR_ML.egg-info/SOURCES.txt
+HR_ML.egg-info/dependency_links.txt
+HR_ML.egg-info/requires.txt
+HR_ML.egg-info/top_level.txt
+scripts/__init__.py
+scripts/mnist_loader.py
+scripts/trial.py

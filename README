@@ -1,0 +1,10 @@
+-----------------------------------------------------
+Handwritting Recognition - Machine Learning Project
+-----------------------------------------------------
+To setup the project run:
+    1- cd to the project directory
+    2- sudo python setup.py install
+
+To run the project:
+    1- cd to the project directory
+    2- python scripts/Runner.py
